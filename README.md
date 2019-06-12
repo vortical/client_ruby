@@ -1,6 +1,6 @@
 # Prometheus Ruby Client
 
-A suite of instrumentation metric primitives for Ruby that can be exposed
+A nice suite of instrumentation metric primitives for Ruby that can be exposed
 through a HTTP interface. Intended to be used together with a
 [Prometheus server][1].
 
